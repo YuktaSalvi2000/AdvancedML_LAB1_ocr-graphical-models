@@ -6,7 +6,7 @@ Covers MAP decoding (DP), forward–backward partition function, gradient comput
 ---
 
 ## 1) Clone the Repository
-git clone https://github.com/YuktaSalvi2000/AdancedML_LAB1_ocr-graphical-models
+git clone https://github.com/YuktaSalvi2000/AdvancedML_LAB1_ocr-graphical-models
 cd AdancedML_LAB1_ocr-graphical-models
 
 
