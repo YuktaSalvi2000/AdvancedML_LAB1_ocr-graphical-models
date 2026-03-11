@@ -65,6 +65,20 @@ Generated files:
 result/solution.txt
 result/prediction.txt
 
+Q3. Graphs generated for Letter-wise_Accuracy vs C
+                          Word-wise_Accuracy vs C
+    Q3a_CRF_Letter-wise_Accuracy_vs_c.png
+    Q3a_SVM_hmm_Letter-wise_Accuracy_vs_c.png
+    Q3a_SVM_MC_Letter-wise_Accuracy_vs_c.png
+    Q3b_CRF_Word-wise_Accuracy_vs_c.png
+    Q3b_SVM_hmm_Word-wise_Accuracy_vs_c.png
+    Q3b_SVM_MC_Word-wise_Accuracy_vs_c.png
+
+Q5. Graphs generated for Letter-wise_Accuracy vs Number of distortions(transformations and rotations)
+                         Word-wise_Accuracy vs Number of distortions(transformations and rotations)
+
+    Q5a_Letter-wise Accuracy_vs_Number_of_Distortions.png
+    Q5a_Word-wise Accuracy_vs_Number_of_Distortions.png
 
 ## 6) Git commands:
 # Sync with main
